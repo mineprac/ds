@@ -1,0 +1,5 @@
+== Open New Terminal ==
+python server.py
+
+== Open New Terminal ==
+python client.py

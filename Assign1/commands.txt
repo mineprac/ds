@@ -1,0 +1,9 @@
+== Open New Terminal ==
+javac *.java
+rmiregistry
+
+== Open New Terminal ==
+java Server
+
+== Open New Terminal ==
+java Client

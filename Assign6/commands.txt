@@ -1,0 +1,7 @@
+== Open a new terminal ==
+javac Bully.java
+java Bully
+
+== Open a new terminal ==
+javac Ring.java
+java Ring

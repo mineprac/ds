@@ -1,0 +1,2 @@
+javac -cp "C:\Users\Downloads\mpj-v0_44\lib\mpi.jar" ArrSum.java
+mpjrun.bat -cp ".;C:\Users\Downloads\mpj-v0_44\lib\mpj.jar" -np 4 ArrSum
