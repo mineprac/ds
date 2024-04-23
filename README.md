@@ -106,6 +106,7 @@ Terminal
 ### Assignment 7:
 
    [Youtube tutorial](https://www.youtube.com/watch?v=0z-HvSfr-M4)
+   (https://drive.google.com/file/d/1Fy09VOf-UAnd-zu8zHut7_XPM38ucNH5/view)
     
 ### Extra:
 
